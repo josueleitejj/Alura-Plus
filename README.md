@@ -11,7 +11,8 @@
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png#vitrinedev)
+![AluraPlus](https://user-images.githubusercontent.com/111453394/205674100-4d382210-bc63-4671-be13-c48f9a854a3f.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
